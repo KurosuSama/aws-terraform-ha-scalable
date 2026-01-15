@@ -46,7 +46,7 @@ Before running the project, ensure you have the following installed:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/KurosuSama/aws-terraform-ansible.git
+git clone https://github.com/KurosuSama/aws-terraform-ha-scalable.git
 cd aws-terraform-ansible/terraform
 ```
 **2. Provision Infrastructure (Terraform) Initialize the provider, preview the changes, and apply the configuration to AWS**
