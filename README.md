@@ -9,7 +9,7 @@ Provisioning of a highly available AWS infrastructure with dynamic scaling polic
 
 ## Project Objective
 
-The objective is to deploy a resilient, fault-tolerant High Availability (HA) architecture. By implementing Auto Scaling Groups and Load Balancers, the infrastructure ensures continuous application uptime and automatically adapts computing resources to real-time traffic demands.
+The goal is to establish a fault-tolerant High Availability (HA) architecture. Through the implementation of dynamic Auto Scaling and intelligent Load Balancing, the system ensures seamless application performance and automatic resource optimization.
 
 ### Technical Comparison: Static vs. Scalable Architecture
 
